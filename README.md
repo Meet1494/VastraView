@@ -54,7 +54,7 @@ virtual-wardrobe/
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/yourusername/virtual-wardrobe.git
+   git clone https://github.com/Meet1494/VastraView.git
    cd virtual-wardrobe
    \`\`\`
 
