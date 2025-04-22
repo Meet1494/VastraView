@@ -55,10 +55,11 @@ virtual-wardrobe/
 1. Clone the repository:
    \`\`\`
    git clone https://github.com/Meet1494/VastraView.git
+   
    cd virtual-wardrobe
    \`\`\`
 
-2. Run the setup script:
+3. Run the setup script:
    \`\`\`
    chmod +x run.sh
    ./run.sh
@@ -72,7 +73,7 @@ virtual-wardrobe/
    - Install frontend dependencies
    - Start the React development server
 
-3. Alternatively, you can set up the backend and frontend manually:
+4. Alternatively, you can set up the backend and frontend manually:
 
    **Backend:**
    \`\`\`
@@ -90,7 +91,7 @@ virtual-wardrobe/
    npm start
    \`\`\`
 
-4. Open your browser and navigate to `http://localhost:3000`
+5. Open your browser and navigate to `http://localhost:3000`
 
 ## Usage
 
